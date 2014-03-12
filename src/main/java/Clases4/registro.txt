@@ -1,0 +1,9 @@
+139139La longitud es :139/nLa longitud es :139
+La longitud es :147
+La longitud es :147
+La longitud es :147y la fecha es:Sat Mar 01 16:51:12 CET 2014del archivo Data.txt 
+ La longitud es :163  y la fecha es:Sat Mar 01 16:51:54 CET 2014  del archivo Data.txt 
+ La longitud es : 163 y la fecha es : Sun Mar 09 15:30:12 CET 2014del archivo Data.txt 
+ La longitud es : 9 y la fecha es : Sun Mar 09 15:31:13 CET 2014  del archivo Data.txt 
+ La longitud es : 14 y la fecha es : Sun Mar 09 15:31:50 CET 2014  del archivo Data.txt 
+ 
